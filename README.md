@@ -1,4 +1,4 @@
-# CRUD application with Node.js + PostgreSQL & Azure
+# CRUD application with Node.js + PostgreSQL
 
 ## Recursos Used 🚀
 
