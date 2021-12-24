@@ -17,7 +17,7 @@
 > npm i
 ```
 
-3. Now run the project inside the `api` folder with the following command:
+3. Now run the project inside the `server` folder with the following command:
 
 ```bash
 > npm run dev
